@@ -1,0 +1,2 @@
+rootProject.name='fragmentmobile'
+include ':app'
